@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.26)  26 MAR 2023 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.27)  26 MAR 2023 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (Mikrokrenel.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -24,33 +24,33 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \stockwidth=\dimen139
 \stockheight=\dimen140
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-)
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip49
@@ -62,8 +62,8 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen146
 \titlewidthfirst=\dimen147
 )
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count194
 \l__pdf_internal_box=\box52
@@ -85,8 +85,8 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
-mkii
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count195
 \scratchdimen=\dimen148
@@ -100,86 +100,107 @@ mkii
 \makeMPintoPDFobject=\count266
 \everyMPtoPDFconversion=\toks19
 )
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
--base.sty
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\Endless\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
-.cfg
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
- [1
+<logo_universitas.png, id=1, 1380.8388pt x 597.6729pt>
+File: logo_universitas.png Graphic file (type png)
+<use logo_universitas.png>
+Package pdftex.def Info: logo_universitas.png  used on input line 9.
+(pdftex.def)             Requested size: 414.25484pt x 179.30325pt.
 
-{C:/Users/Endless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (1.27858pt too wide) in paragraph at lines 25--26
+Overfull \hbox (69.25484pt too wide) in paragraph at lines 9--11
+ [][] 
+ []
+
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo_univer
+sitas.png>]
+Overfull \hbox (1.27858pt too wide) in paragraph at lines 40--41
 []\OT1/cmr/m/n/10 Itu juga bertin-dak se-ba-gai jem-batan an-tara perangkat lu-
 nak dan perangkat
  []
 
 
-Overfull \hbox (10.2138pt too wide) in paragraph at lines 49--50
-[]\OT1/cmr/m/n/10 Meskipun demikian, mi-cro-ker-nel mu-dah diper-pan-jang. Ak-i
--bat-nya, jika layanan
+Overfull \hbox (11.04716pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/10 Meskipun demikian, mikro-ker-nel mu-dah diper-pan-jang. Ak-i-
+bat-nya, jika layanan
  []
 
 [1
 
 ]
-Overfull \hbox (6.083pt too wide) in paragraph at lines 58--59
+Overfull \hbox (6.083pt too wide) in paragraph at lines 77--78
 []\OT1/cmr/m/n/10 Contoh mikro-ker-nel an-tara lain QNX, Minix, Sym-bian, Mac O
 S X, L4Linux,
  []
 
 
-Overfull \hbox (9.36078pt too wide) in paragraph at lines 73--74
+Overfull \hbox (9.36078pt too wide) in paragraph at lines 94--95
 []\OT1/cmr/m/n/10 Contoh ker-nel mono-li-tik adalah Mi-crosoft Win-dows, Linux,
  BSD (OpenBSD,
  []
 
-<Mikrokernel-1.png, id=12, 910.40125pt x 633.36626pt>
+<Mikrokernel-1.png, id=15, 910.40125pt x 633.36626pt>
 File: Mikrokernel-1.png Graphic file (type png)
 <use Mikrokernel-1.png>
-Package pdftex.def Info: Mikrokernel-1.png  used on input line 80.
+Package pdftex.def Info: Mikrokernel-1.png  used on input line 103.
 (pdftex.def)             Requested size: 341.43306pt x 237.54076pt.
 
-Overfull \hbox (7.40825pt too wide) in paragraph at lines 86--87
+Overfull \hbox (7.40825pt too wide) in paragraph at lines 109--110
 \OT1/cmr/m/n/10 dahkan dari mode ker-nel dan di-jalankan dalam mode peng-guna. 
 Driver perangkat,
  []
 
 [2]
-<Mikrokernel-2.png, id=16, 1434.35875pt x 334.24875pt>
+<Mikrokernel-2.png, id=19, 1434.35875pt x 334.24875pt>
 File: Mikrokernel-2.png Graphic file (type png)
 <use Mikrokernel-2.png>
-Package pdftex.def Info: Mikrokernel-2.png  used on input line 94.
+Package pdftex.def Info: Mikrokernel-2.png  used on input line 117.
 (pdftex.def)             Requested size: 341.43306pt x 79.5634pt.
- [3 <./Mikrokernel-1.png> <./Mikrokernel-2.png>] [4] [5] (Mikrokrenel.aux) ) 
+ [3 <./Mikrokernel-1.png> <./Mikrokernel-2.png>]
+Overfull \hbox (3.61191pt too wide) in paragraph at lines 139--140
+[]\OT1/cmr/m/n/10 Memungkinkan pengem-bang un-tuk den-gan mu-dah menam-bahkan d
+an men-
+ []
+
+
+Overfull \hbox (18.05634pt too wide) in paragraph at lines 143--144
+[]\OT1/cmr/m/n/10 Memungkinkan sis-tem op-erasi lebih mod-u-lar se-hingga memu-
+ngkinkan pengem-
+ []
+
+[4]
+Overfull \hbox (4.91742pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/10 Memungkinkan sis-tem op-erasi un-tuk lebih mu-dah dikem-bangk
+an dan dipeli-
+ []
+
+[5] [6] (Mikrokrenel.aux) ) 
 Here is how much of TeX's memory you used:
- 1632 strings out of 475385
- 26823 string characters out of 2775963
- 375522 words of memory out of 3000000
- 23042 multiletter control sequences out of 15000+600000
- 474147 words of font info for 44 fonts, out of 8000000 for 9000
+ 1619 strings out of 475385
+ 26649 string characters out of 2777379
+ 376522 words of memory out of 3000000
+ 23035 multiletter control sequences out of 15000+600000
+ 471383 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,62p,564b,230s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C
-:\Users\Endless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm100
-0.pk><C:/Users/Endless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/Users/Endless/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><C:/Users/Endless/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Endless/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Mikrokrenel.pdf (6 pages, 94774 bytes).
+ 55i,6n,62p,564b,230s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Mikrokrenel.pdf (7 pages, 302417 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
